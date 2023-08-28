@@ -1,0 +1,37 @@
+    1  apt-get update
+    2  halt
+    3  git clone https://github.com/dahbit/frontend.git
+    4  ls
+    5  git clone https://github.com/dahbit/clase-maq-virtuales.git
+    6  ls
+    7  cd clase-map-virtuales
+    8  cd clase-maq-virtuales/
+    9  ls
+   10  touch cuestionario.txt
+   11  git config --global user.name dahbit
+   12  nano cuestionario.txt
+   13  git push origin main
+   14  git add .
+   15  git commit -m "Cuestionario update"
+   16  git config --global user.mail "davide.acv@gmail.com"
+   17  git config --global user.name "dahbit"
+   18  git commit -m "Cuestionario update"
+   19  git config --global user.mail "davide.acv@gmail.com"
+   20  git status
+   21  git commit -m "Cuestionario update"
+   22  git config --global user.mail "davide.acv@gmail.com"
+   23  git commit -m "Cuestionario update"
+   24  git config user.mail "davide.acv@gmail.com"
+   25  git commit -m "Cuestionario update"
+   26  git config user.mail "davide.acv@gmail.com"
+   27  git config user.name "dahbit"
+   28  git commit -m "Cuestionario update"
+   29  git config user.email "davide.acv@gmail.com
+git commit -m "Cuestionario update"
+
+   30  git commit -m "Cuestionario update"
+   31  git config user.email "davide.acv@gmail.com"
+   32  git config user.name "dahbit"
+   33  git commit -m "Cuestionario update"
+   34  git push origin main
+   35  history 50 > commands.txt
