@@ -1,0 +1,20 @@
+Por diversos factores que pueden afectar como por ejemplo:
+El tipo de compilador
+Plataforma de dependencia
+Api y librer      as
+Por el tipo de configuraci      n del sistema
+
+      Qu       tipo de m      quina virtual soporta virtualBox?.
+Windows
+Solaris
+Linux
+Mac os
+
+      Qu       funci      n cumple el hypervisor en la virtualizaci      n?
+Crear m      quinas virtuales
+Asignar recursos
+Gestionar Red
+Escalabilidad
+
+Si tengo m      s de una m      quina virtual instalada, y una se rompe,       esto afecta a las dem      s?       por qu      ?
+No, por el aislamiento entre m      quinas virtuales, y esto es una caracter      sticas fundamental de la MV
